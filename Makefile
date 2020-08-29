@@ -19,4 +19,4 @@ all:
 
 	rm -f $(DESTINATION)
 	rm -rf AppDir/opt
-	rm -rf sublime_text_3
+	rm -rf sublime_text_*
