@@ -10,7 +10,7 @@ all:
 	rm -rf AppDir/opt
 
 	mkdir --parents AppDir/opt/application
-	cp -r sublime_text_3/* AppDir/opt/application
+	cp -r sublime_text_*/* AppDir/opt/application
 
 	chmod +x AppDir/AppRun
 
